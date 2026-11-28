@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VIVA</string>
+    <string name="accessibility_description">خدمة سهولة الوصول للتنقل والتحكم في التطبيق</string>
+    <string name="camera_title">الكاميرا</string>
+    <string name="vr_title">الواقع المختلط</string>
+    <string name="ai_title">المساعد الذكي</string>
+</resources>
